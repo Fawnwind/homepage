@@ -4,19 +4,19 @@
 }
 
 a:link {
-    color: #8D3D5A;
+    color: #E5E5E5;
     text-decoration: none;
     font-size: 20px;
 }
 
 a:visited {
-    color: #8D3D5A;
+    color: #E5E5E5;
     text-decoration: none;
     font-size: 20px;
 }
 
 a:hover {
-    color: #D99FB4;
+    color: #7F7F7F;
     text-decoration: none;
     font-size: 20px;
 }
@@ -28,7 +28,7 @@ a:active {
 }
 
  body {
-   color: #D95E8B;
+   color: #FFFFFF;
    font-family: 'Open Sans', sans-serif;
    background-image: url('b.jpg');
    text-align: center; 
